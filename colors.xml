@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="calc_digit_button">#dcdcdc</color>
+    <color name="calc_operation_button">#bebebe</color>
+    <color name="calc_result_button">#fde126</color>
+    <color name="calc_cancel_button">#d30404</color>
+</resources>
